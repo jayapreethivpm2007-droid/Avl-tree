@@ -57,3 +57,10 @@ root = delete(root,10)
 
 print "\nAfter Deletion:"
 inorder(root)
+Output:
+
+Before Deletion:
+10 20 30
+
+After Deletion:
+20 30
